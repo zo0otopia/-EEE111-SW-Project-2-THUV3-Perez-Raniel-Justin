@@ -4,7 +4,6 @@ from tkinter import ttk
 import tkinter as tk
 from tkinter import messagebox
 from LibraryDbSQlite import LibraryDbSQlite
-from tkinter import *
 
 class LibraryGui(customtkinter.CTk):
 
